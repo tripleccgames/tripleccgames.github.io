@@ -1,0 +1,3 @@
+# app-ads.txt de TripleC Games
+# REEMPLAZAR estas líneas por las que da LevelPlay (platform.ironsrc.com → app-ads.txt)
+# antes de publicar la web. No dejar este archivo con solo comentarios.
